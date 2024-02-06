@@ -1,7 +1,7 @@
 # R6-VOD-Analysis-with-OpenCV
 This repo is outdated, working on a conversion using memory maps. The new anticheat has some form of dynamically changing the dynamic memory maps and is easier said then done.
 
-Run the script in the folder with your VOD labelled "VOD.mp4".
+Run the main.py in the folder with your VOD to be analysed and label it "VOD.mp4".
 
 File is outputed to success.xls after completion.
 
